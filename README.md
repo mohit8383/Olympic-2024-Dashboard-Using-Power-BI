@@ -12,35 +12,35 @@ The project leverages **Power BI, DAX, Python, and Figma** to process over **10,
 ### 📊 **1. Home Page**
 - Provides an overview of key **Olympic Theam** at a glance and a **quick start** of this dashboard.
 
-![1_Home Page](https://github.com/22Ranjan15/Paris-2024-Olympic_Dashboard/blob/main/Snapshots/1_Home.png)
+![1_Home Page](https://github.com/mohit8383/Olympic-2024-Dashboard-Using-Power-BI/blob/main/Snapshots/1_Home.png)
 
 ---
 
 ### 📈 **2. Overview Page**
 - Displays general insights, including total athletes, countries, male & female athlete distribution, medal counts by type, and medal trends over time, highlighting top-performing nations.
 
-![2_Overview Page](https://github.com/22Ranjan15/Paris-2024-Olympic_Dashboard/blob/main/Snapshots/2_Overview.png)
+![2_Overview Page](https://github.com/mohit8383/Olympic-2024-Dashboard-Using-Power-BI/blob/main/Snapshots/2_Overview.png)
 
 ---
 
 ### 🏃‍♂️ **3. Athletes Page**
 - Highlights top-performing country, age-wise distribution of male and female athletes, and country-wise medal counts.
 
-![3_Athletes Page](https://github.com/22Ranjan15/Paris-2024-Olympic_Dashboard/blob/main/Snapshots/3_Athletes.png)
+![3_Athletes Page](https://github.com/mohit8383/Olympic-2024-Dashboard-Using-Power-BI/blob/main/Snapshots/3_Athletes.png)
 
 ---
 
 ### 🌍 **4. Country-wise Performance Page**
 - **Medal distribution per country**, provide map view of countries perticipated.
 
-![4_Country Page](https://github.com/22Ranjan15/Paris-2024-Olympic_Dashboard/blob/main/Snapshots/4_Country.png)
+![4_Country Page](https://github.com/mohit8383/Olympic-2024-Dashboard-Using-Power-BI/blob/main/Snapshots/4_Country.png)
 
 ---
 
 ### 📜 **5. Historical Trends Page**
 - **Visualization of Olympic history**, identifying key trends. Analysis of dominant countries over different Olympic decades.
 
-![5_Historical Page](https://github.com/22Ranjan15/Paris-2024-Olympic_Dashboard/blob/main/Snapshots/5_Historical.png)
+![5_Historical Page](https://github.com/mohit8383/Olympic-2024-Dashboard-Using-Power-BI/blob/main/Snapshots/5_Historical.png)
 
 ---
 
@@ -55,10 +55,10 @@ The project leverages **Power BI, DAX, Python, and Figma** to process over **10,
 ---
 
 ## Files Included
-- [`Olympic 2024_Dashboard.pbix`](https://github.com/22Ranjan15/Paris-2024-Olympic_Dashboard/blob/feb4c3600a40ff669f4deddbe293814e174af43b/Olympic%202024_Dashboard.pbix): The Power BI dashboard file.
-- [`Datastes.zip`](https://github.com/22Ranjan15/Paris-2024-Olympic_Dashboard/blob/429593e349b30f9549cd7cdf930cc06fa7e172d3/Datasets.zip): Folder containing raw data files used for the dashboard.
-- [`Snapshots.zip`](https://github.com/22Ranjan15/Paris-2024-Olympic_Dashboard/blob/a5ca658f70f06e68db85cf0122d75f391c5b31a6/Snapshots.zip): Folder with screenshots of the dashboard for preview.
-- [`README.md`](https://github.com/22Ranjan15/Paris-2024-Olympic_Dashboard/blob/5ba1c345fb4ee77694a3e6a468e86bb33f939257/README.md): This documentation file.
+- [`Olympic 2024_Dashboard.pbix`](https://github.com/mohit8383/Olympic-2024-Dashboard-Using-Power-BI/blob/main/Olympic%202024_Dashboard.pbix): The Power BI dashboard file.
+- [`Datastes`](https://github.com/mohit8383/Olympic-2024-Dashboard-Using-Power-BI/tree/main/Datasets): Folder containing raw data files used for the dashboard.
+- [`Snapshots`](https://github.com/mohit8383/Olympic-2024-Dashboard-Using-Power-BI/tree/main/Snapshots): Folder with screenshots of the dashboard for preview.
+- [`README.md`](https://github.com/mohit8383/Olympic-2024-Dashboard-Using-Power-BI/blob/main/README.md): This documentation file.
 
 ---
 
@@ -70,9 +70,10 @@ The project leverages **Power BI, DAX, Python, and Figma** to process over **10,
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Paris2024OlympicsDashboard.git
+    git clone https://github.com/mohit8383/Olympic-2024-Dashboard-Using-Power-BI.git
     ```
 2. Open the `Olympic 2024_Dashboard.pbix` file in Power BI Desktop.
+   
 3. Refresh the data sources if needed.
 
 ---
@@ -93,6 +94,6 @@ The analysis uncovers significant **trends in medal counts, athlete participatio
 ## 📩 Contact
 If you have any questions or suggestions, feel free to reach out:
 
-📧 **Email:** ranjandasbd22@gmail.com 
+📧 **Email:** mohitkasat83@gmail.com 
 
-💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/das-ranjan22/) 
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mohitkasat/) 
