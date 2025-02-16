@@ -12,8 +12,6 @@ The project leverages **Power BI, DAX, Python, and Figma** to process over **10,
 ### 📊 **1. Home Page**
 - Provides an overview of key **Olympic Theam** at a glance and a **quick start** of this dashboard.
 
-![1_Home Page](https://github.com/mohit8383/Olympic-2024-Dashboard-Using-Power-BI/blob/main/Snapshots/1_Home.png)
-
 ---
 
 ### 📈 **2. Overview Page**
